@@ -2,3 +2,4 @@
 Belajar Github di Dicoding itu Seru!
 ayo di coba
 gas langsung
+langsung di mulai aja
